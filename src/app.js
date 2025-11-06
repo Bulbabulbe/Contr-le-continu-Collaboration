@@ -8,7 +8,7 @@
 const PROJECT_NAME = "git-collab-mini";
 
 // ★ À MODIFIER PAR LES TROIS (VALEUR DIFFÉRENTE OBLIGATOIRE)
-const AUTHOR_NAME = "Raphael & Enzo";
+const AUTHOR_NAME = "Raphael, Enzo & Theo";
 
 
 function buildBanner() {
