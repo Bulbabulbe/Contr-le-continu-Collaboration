@@ -1,0 +1,17 @@
+# Dépendances
+node_modules/
+
+# Sorties locales
+dist/
+coverage/
+
+# Secrets/env locaux
+.env
+.env.local
+
+# OS / éditeurs / logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-error.log*
